@@ -1,5 +1,5 @@
-set runtimepath^=~/.vim/bundle/nerdtree-master/nerdtree-master
-set runtimepath^=~/.vim/bundle/vimwiki-master
+" set runtimepath^=~/.vim/bundle/nerdtree-master/nerdtree-master
+" set runtimepath^=~/.vim/bundle/vimwiki-master
 
 " Using auto indentions
 set autoindent
